@@ -270,9 +270,9 @@ Conteúdo programático oficial, usado como roteiro de estudo e checklist de pro
 
 | Módulos | Concluídos |
 |---|---|
-| 17 | 0 |
+| 17 | 3 |
 
-`▱▱▱▱▱▱▱▱▱▱` 0%
+`▱▱▱▱▱▱▱▱▱▱` 20%
 
 ---
 
