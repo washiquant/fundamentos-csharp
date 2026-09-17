@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\bin\Debug\net10.0\FundamentosdeC#.exe
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\bin\Debug\net10.0\FundamentosdeC#.deps.json
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\bin\Debug\net10.0\FundamentosdeC#.runtimeconfig.json
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\bin\Debug\net10.0\FundamentosdeC#.dll
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\bin\Debug\net10.0\FundamentosdeC#.pdb
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\obj\Debug\net10.0\FundamentosdeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\obj\Debug\net10.0\FundamentosdeC#.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\obj\Debug\net10.0\FundamentosdeC#.AssemblyInfo.cs
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\obj\Debug\net10.0\FundamentosdeC#.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\obj\Debug\net10.0\FundamentosdeC#.dll
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\obj\Debug\net10.0\refint\FundamentosdeC#.dll
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\obj\Debug\net10.0\FundamentosdeC#.pdb
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\obj\Debug\net10.0\FundamentosdeC#.genruntimeconfig.cache
+C:\Users\fic\Desktop\Backend-Washington-Willian\FundamentosdeC#\obj\Debug\net10.0\ref\FundamentosdeC#.dll
